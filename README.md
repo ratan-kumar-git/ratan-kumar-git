@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ratan Kumar
 
-<!--
-**ratan-kumar-git/ratan-kumar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc (Computer Science & Data Analysis)** — Aspiring software engineer focused on practical, production-ready solutions and data-driven systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I am a BSc student in Computer Science and Data Analysis with hands-on experience building full‑stack applications. I prefer clear, maintainable code and pragmatic engineering choices that scale for small teams.
+
+## Key strengths
+
+* Strong fundamentals in Python and JavaScript (ES6+)
+* Familiar with Flask, Express.js and Next.js.
+* Database experience: PostgreSQL / Supabase, MongoDB / Mongoose, SQLAlchemy
+* Data analysis & ML basics: NumPy, pandas, scikit‑learn; 
+* Comfortable with Tailwind CSS and building responsive UIs
+
+## Selected projects
+
+### Inventory Demand Forecasting System
+
+## Current focus
+
+* Improving Mongoose expertise and advanced MongoDB schema design
+
+## How to reach me
+
+* GitHub: `https://github.com/ratan-kumar-git`
+* Email: [krratan80@gmail.com](mailto:krratan80@gmail.com)
+
+##
